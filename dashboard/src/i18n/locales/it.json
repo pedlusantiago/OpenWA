@@ -72,7 +72,7 @@
     "webhooks": "Webhook",
     "templates": "Modelli",
     "apiKeys": "Chiavi API",
-    "messageTester": "Tester Messaggi",
+    "messageTester": "Messaggio di prova",
     "infrastructure": "Infrastruttura",
     "plugins": "Plugin",
     "logs": "Log"
